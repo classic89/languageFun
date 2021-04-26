@@ -1,0 +1,18 @@
+"de" "deutsch" "german"
+"en" "english" "english"
+"fr" "français" "french"
+"ht" "kreyol" "haitian creole" 
+"vi" "Tiếng Việt" "vietnamese" 
+"it" "italiano" "italian"
+"es" "español" "spanish" 
+
+"ar" "العربية" "arabic" 
+"hi" "हिंदी" "hindi"
+"ps" "ਪੰਜਾਬੀ " "punjabi"
+"zh" "中文" "chinese" 
+"ko" "한국어" "korean" 
+
+"id" "indonesia" "indonesian" 
+"ms" "bahasa melayu" "malay" 
+"tl" "tagalog" "filiapino"
+"haw" "'ōlelo Hawai'i" "hawaiian"
